@@ -21,6 +21,6 @@
 [ea]: https://www.ea.com/
 [gmail]: mailto:kellinmcavoy@gmail.com
 [gmail-badge]: https://img.shields.io/badge/gmail-kellinmcavoy%40gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
-[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=mcavoyk&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&hide=stars
-[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=mcavoyk&hide=dockerfile,Makefile&theme=tokyonight&hide_title=true&card_width=230&layout=compact
+[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=mcavoyk&count_private=true&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true&hide=stars&rank_icon=github
+[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=mcavoyk&hide=dockerfile,Makefile&theme=dracula&hide_title=true&card_width=230&layout=compact
 [profile]: https://github.com/mcavoyk
